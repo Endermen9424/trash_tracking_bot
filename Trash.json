@@ -8,6 +8,27 @@
         "Elektronik": "Elektronik atıklar geri dönüşüm merkezlerine götürülmelidir.",
         "Piller": "Piller pil toplama kutusuna atılmalıdır.",
         "Tıbbi Atıklar": "Tıbbi atıklar özel tıbbi atık kutularına atılmalıdır.",
-        "Tekstil": "Tekstil atıkları tekstil geri dönüşüm merkezlerine götürülmelidir."
+        "Tekstil": "Tekstil atıkları tekstil geri dönüşüm merkezlerine götürülmelidir.",
+        "Ahşap": "Ahşap atıklar ahşap geri dönüşüm kutusuna atılmalıdır.",
+        "Yemek Atıkları": "Yemek atıkları organik atık kutusuna atılmalıdır.",
+        "Mobilya": "Mobilya geri dönüşüm merkezlerine götürülmelidir.",
+        "Pil Şarj Cihazları": "Şarj cihazları elektronik geri dönüşüm kutusuna atılmalıdır.",
+        "İlaç": "Kullanılmayan ilaçlar eczanelere veya tıbbi atık kutularına atılmalıdır.",
+        "Deri Ürünleri": "Deri ürünleri tekstil geri dönüşüm merkezlerine götürülmelidir.",
+        "Karton": "Karton kağıt geri dönüşüm kutusuna atılmalıdır.",
+        "Boya Kutuları": "Boya kutuları tehlikeli atık geri dönüşüm merkezlerine götürülmelidir.",
+        "Buzdolabı": "Beyaz eşya geri dönüşüm merkezlerine götürülmelidir.",
+        "Kompakt Floresan Lamba": "Floresan lambalar tehlikeli atık kutularına atılmalıdır.",
+        "CD/DVD": "CD ve DVD'ler elektronik geri dönüşüm kutusuna atılmalıdır.",
+        "Bebek Bezi": "Bebek bezleri evsel atık kutusuna atılmalıdır.",
+        "Sigara İzmariti": "Sigara izmaritleri evsel atık kutusuna atılmalıdır.",
+        "Küçük Ev Aletleri": "Küçük ev aletleri elektronik geri dönüşüm merkezlerine götürülmelidir.",
+        "Şişe Kapakları": "Şişe kapakları plastik geri dönüşüm kutusuna atılmalıdır.",
+        "Temizlik Ürünleri Şişeleri": "Temizlik ürünleri şişeleri plastik geri dönüşüm kutusuna atılmalıdır.",
+        "Kumaş": "Kumaşlar tekstil geri dönüşüm kutusuna atılmalıdır.",
+        "Ayakkabı": "Eski ayakkabılar tekstil geri dönüşüm merkezlerine götürülmelidir.",
+        "Ampul": "Ampuller elektrikli cihaz geri dönüşüm kutusuna atılmalıdır.",
+        "Kaşık-Çatal-Bıçak": "Metal geri dönüşüm kutusuna atılmalıdır.",
+        "Kablo": "Kablolar elektronik geri dönüşüm kutusuna atılmalıdır."
     }
 }
