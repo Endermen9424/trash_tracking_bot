@@ -1,0 +1,13 @@
+{
+    "Atiklar": {
+        "Cam": "Cam geri dönüşüm kutusuna atılmalıdır.",
+        "Plastik": "Plastik geri dönüşüm kutusuna atılmalıdır.",
+        "Kağıt": "Kağıt geri dönüşüm kutusuna atılmalıdır.",
+        "Metal": "Metal geri dönüşüm kutusuna atılmalıdır.",
+        "Organik": "Organik atık kutusuna atılmalıdır.",
+        "Elektronik": "Elektronik atıklar geri dönüşüm merkezlerine götürülmelidir.",
+        "Piller": "Piller pil toplama kutusuna atılmalıdır.",
+        "Tıbbi Atıklar": "Tıbbi atıklar özel tıbbi atık kutularına atılmalıdır.",
+        "Tekstil": "Tekstil atıkları tekstil geri dönüşüm merkezlerine götürülmelidir."
+    }
+}
